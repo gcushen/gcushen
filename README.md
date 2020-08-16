@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Geo 👋👨🏼‍💻
+
+![George](https://raw.githubusercontent.com/gcushen/gcushen/master/github-header.webp)
 
 <!--
 **gcushen/gcushen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
