@@ -1,6 +1,6 @@
 ### Hi there, I'm Geo 👋👨🏼‍💻
 
-![Twitter Follow](https://img.shields.io/twitter/follow/GeorgeCushen?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/GeorgeCushen.svg?style=social&label=@GeorgeCushen)](https://twitter.com/GeorgeCushen)
 
 [![George](https://raw.githubusercontent.com/gcushen/gcushen/master/github-header.webp)](https://georgecushen.com)
 
