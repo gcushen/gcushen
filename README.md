@@ -1,5 +1,7 @@
 ### Hi there, I'm Geo 👋👨🏼‍💻
 
+![Twitter Follow](https://img.shields.io/twitter/follow/GeorgeCushen?style=social)
+
 [![George](https://raw.githubusercontent.com/gcushen/gcushen/master/github-header.webp)](https://georgecushen.com)
 
 <!--
