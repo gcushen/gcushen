@@ -1,8 +1,8 @@
 ### Hi there, I'm Geo 👋👨🏼‍💻
 
-[![Twitter](https://img.shields.io/twitter/follow/GeorgeCushen.svg?style=social&label=@GeorgeCushen)](https://twitter.com/GeorgeCushen)
+[![X](https://img.shields.io/twitter/follow/GeorgeCushen.svg?style=social&label=@GeoGainz)](https://x.com/GeoGainz)
 
-[![George](https://raw.githubusercontent.com/gcushen/gcushen/master/github-header.webp)](https://georgecushen.com)
+[![Geo Cushen Homepage](https://raw.githubusercontent.com/gcushen/gcushen/master/github-header.webp)](https://geocushen.com)
 
 <!--
 Here are some ideas to get you started:
